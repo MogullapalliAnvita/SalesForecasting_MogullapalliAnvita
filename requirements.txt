@@ -4,3 +4,10 @@ numpy
 plotly
 scikit-learn
 xgboost
+
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
